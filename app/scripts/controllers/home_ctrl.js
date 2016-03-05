@@ -127,9 +127,10 @@ define([
         zoom: 18
       },
       defaults: {
-        tileLayer: 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+        tileLayer: 'http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
         tileLayerOptions: {
           subdomains: 'abcd',
+          format: 'png',
           detectRetina: true,
           reuseTiles: true
         },
