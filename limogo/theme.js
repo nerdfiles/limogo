@@ -1,8 +1,8 @@
 
 /**
-@fileOverview ./blocknext/theme.js
+@fileOverview ./limogo/theme.js
 @description
-Load Blocknext theme.
+Load LimoGo theme.
  */
 
 (function() {
@@ -16,7 +16,7 @@ Load Blocknext theme.
 
     /**
     Theme Route Config
-    @module blocknext.app/theme
+    @module limogo.app/theme
      */
     __interface__.app.use(express["static"](path.join(__dirname, '../app')));
     __interface__.app.use('/assets', express["static"](path.join(__dirname, '../app')));

@@ -1,6 +1,6 @@
 
 /**
-@fileOverview ./blocknext/interface.js
+@fileOverview ./limogo/interface.js
  */
 
 (function() {

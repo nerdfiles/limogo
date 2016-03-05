@@ -1,6 +1,6 @@
 
 /**
-@fileOverview ./blocknext/start.js
+@fileOverview ./limogo/start.js
 @description
 Start Web application.
  */
@@ -12,7 +12,7 @@ Start Web application.
 
     /**
     Server initialization at a specified port.
-    @module blocknext.app/start
+    @module limogo.app/start
      */
     var port;
     port = __interface__.app.get('port');

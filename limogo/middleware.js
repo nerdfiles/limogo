@@ -1,6 +1,6 @@
 
 /**
-@fileOverview ./blocknext/caps.js
+@fileOverview ./limogo/caps.js
 @description
 1. Documentation  
 2. API Mocks
@@ -17,7 +17,7 @@
 
     /**
     Dev Route Config
-    @module blocknext.app/dev
+    @module limogo.app/dev
      */
     __interface__.app.use('/bower_components', express["static"](path.join(__dirname, '../bower_components')));
     return __interface__;
