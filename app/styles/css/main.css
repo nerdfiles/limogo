@@ -68,7 +68,7 @@ body {
     width: 25%;
     text-align: center; }
     .header .inner .navbar-header a {
-      color: #fff;
+      color: #111;
       font-size: 1.5rem;
       text-decoration: none; }
   .header .inner .collapse {
@@ -83,7 +83,7 @@ body {
       list-style: none; }
     .header .inner .nav.navbar-nav a {
       display: block;
-      color: #fff;
+      color: #111;
       font-weight: normal;
       padding: 0 2.5vh; }
     .header .inner .nav.navbar-nav a {
